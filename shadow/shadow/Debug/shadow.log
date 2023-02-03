@@ -1,0 +1,3 @@
+﻿  shadow.cpp
+C:\Users\sam22\Downloads\shadow.cpp(117,33): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+  shadow.vcxproj -> C:\Users\sam22\source\repos\shadow\Debug\shadow.exe
