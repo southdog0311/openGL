@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\sam22\OneDrive\桌面\太陽系\太陽系\Source.cpp(208,34): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+  太陽系.vcxproj -> C:\Users\sam22\OneDrive\桌面\太陽系\Debug\太陽系.exe
