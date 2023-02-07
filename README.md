@@ -2,7 +2,7 @@
 first:  
 模擬太陽系  
 second:  
-shadow  
+shadow : 建立光源視角與陰影 
 third:  
 airplane game  
 遊玩方式：鍵盤上下左右  
